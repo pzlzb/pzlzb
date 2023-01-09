@@ -42,9 +42,9 @@
 <span style="color:#F5D827">**Project**</span><br> | <span style="color:#F5D827">**Date**</span><br> | <span style="color:#F5D827">**Spoiler**</span><br> | <span style="color:#F5D827">**Categories**</span><br> | <span style="color:#F5D827">**gitHubUser**</span><br> |
 :-- |:-: | --: |:-- |:-- |
 CannisLupus | 2022-09-15 | It´s an app web | - | pzlzb
-Apunt.es | 2020-04-06 |It´s an app web | - | pzlzb, @partner
-Citapp | 2020-03-18 | It´s an app web |- | pzlzb, @partner
-Punt de venta | 2021-10-10 | It´s an desktop | - | pzlzb, @partner
+Apunt.es | 2020-04-06 |It´s an app web | - | pzlzb, @josemiguellpz
+Citapp | 2020-03-18 | It´s an app web |- | pzlzb, @josemiguellpz
+Punt de venta | 2021-10-10 | It´s an desktop | - | pzlzb, @josemiguellpz
 <br>
 
 ---
